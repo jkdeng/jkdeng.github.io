@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 邓纪康
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Deng Jikang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jikang
+last_name: Deng
 
 # Status emoji
 status:
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: MSc Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: King Abdullah University of Science and Technology
+    url: https://www.kaust.edu.sa/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jikang.deng@kaust.edu.sa'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -47,9 +47,12 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Wireless Communication
+  - Non-Terrestrial Network
+    - UAV Communication
+    - Satellite Communication
+  - Machine Learning
+    - Reinforcemenat Learning
 
 education:
   - area: PhD Artificial Intelligence
@@ -77,11 +80,9 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.93/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
