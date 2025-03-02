@@ -67,7 +67,7 @@ education:
   - area: MSc Electrical and Computer Engineering
     institution: King Abdullah University of Science and Technology (KAUST)
     date_start: 2023-08-14
-    date_end: Present
+    date_end: 2025-06-30
     summary: |
       GPA: 3.83/4.0
 
