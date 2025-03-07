@@ -36,10 +36,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.08*: &nbsp; I join Communication Theory Lab ([CTL](https://ctl.kaust.edu.sa/)) in KAUST as a Master student in Saudi Arabia.
 
 # 📖 Educations
-- *2023.08 - now*, King Abdullah University of Science and Technology (KAUST)
+- *2023.08 - now*: King Abdullah University of Science and Technology (KAUST)
   - Master of Science, Electrical and Computer Engineering
   - Jeddah, Saudi Arabia
-- *2019.09 - 2023.06*, University of Electronic Science and Technology of China (UESTC)
+- *2019.09 - 2023.06*: University of Electronic Science and Technology of China (UESTC)
   - Bachelor of Engineering, Network Engineering
   - Chengdu, China
 
@@ -61,11 +61,11 @@ My research interest includes neural machine translation and computer vision. I 
 </div> -->
 
 # 🎖 Honors and Awards
-- *2022* . Person of the Year in College (荣耀信通年度人物), UESTC
-- *2022* . Meritorious Winner, Mathematical Contest in Modeling (Held by COMAP, USA)
-- *2022* . Xiaomi Scholarship, UESTC
-- *2021* . Suzhou Yucai Scholarship, UESTC
-- *2020 - 2022* . Outstanding Students First-Level Scholarships (Three Times), UESTC
+- *2022*: Person of the Year in College (荣耀信通年度人物), UESTC
+- *2022*: Meritorious Winner, Mathematical Contest in Modeling (Held by COMAP, USA)
+- *2022*: Xiaomi Scholarship, UESTC
+- *2021*: Suzhou Yucai Scholarship, UESTC
+- *2020 - 2022*: Outstanding Students First-Level Scholarships (Three Times), UESTC
 
 <!--# 🎼 Hobbies
 - Art: Chinese Calligraphy
