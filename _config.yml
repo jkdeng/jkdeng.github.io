@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jikang Deng"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : ""
 repository               : "jkdeng/jkdeng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jikang Deng"
   avatar           : "images/Near-Photo.JPG"
-  bio              : "King Abdullah University of Science and Technology"
+  bio              : "Master Student"
   location         : "Jeddah, Saudi Arabia"
-  employer         :
+  employer         : "King Abdullah University of Science and Technology"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "jikang.deng@kaust.edu.sa"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/jkdeng"
   google_plus      :
   keybase          :
   instagram        :
