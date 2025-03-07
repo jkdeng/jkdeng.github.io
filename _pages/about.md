@@ -31,10 +31,20 @@ My research interest includes neural machine translation and computer vision. I 
 - Non-terrestrial Network (NTN)
 - AI for communications
 
+# 📖 Educations
+- *2023.08 - now*, King Abdullah University of Science and Technology (KAUST)
+  - Master of Science, Electrical and Computer Engineering
+- *2019.09 - 2023.06*, University of Electronic Science and Technology of China (UESTC)
+  - Bachelor of Engineering, Network Engineering
+
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 I will present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE. 
 
 # 📝 Publications 
+- [Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect](https://arxiv.org/abs/2502.16179), **Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *arXiv 2025.02*
+
+- [Distributed Coordination for Heterogeneous Non-Terrestrial Networks](https://arxiv.org/abs/2502.17366), **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini, *arXiv 2025.02*
+
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -47,11 +57,6 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div> -->
 
-- [Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect](https://arxiv.org/abs/2502.16179), Jikang Deng, Fatma Benkhelifa, Mohamed-Slim Alouini, **arXiv 2025.02**
-
-- [Distributed Coordination for Heterogeneous Non-Terrestrial Networks](https://arxiv.org/abs/2502.17366), Jikang Deng, Hui Zhou, Mohamed-Slim Alouini, **arXiv 2025.02**
-
-
 # 🎖 Honors and Awards
 - *2022* . Person of the Year in College (荣耀信通年度人物), UESTC
 - *2022* . Meritorious Winner, 2022 Mathematical Contest in Modeling (Held by COMAP, USA)
@@ -59,15 +64,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021* . Suzhou Yucai Scholarship, UESTC
 - *2020 - 2022* . Outstanding Students First-Level Scholarships (Three Times), UESTC
 
-# 📖 Educations
-- *2023.08 - now*, King Abdullah University of Science and Technology (KAUST)
-  - Master of Science, Electrical and Computer Engineering
-- *2019.09 - 2023.06*, University of Electronic Science and Technology of China (UESTC)
-  - Bachelor of Engineering, Network Engineering
-
-# 💬 Invited Talks
-<!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!--# 💬 Invited Talks
+ - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
+<!--# 💻 Internships
+ - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.-->
