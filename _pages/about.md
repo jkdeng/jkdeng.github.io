@@ -31,6 +31,9 @@ My research interest includes neural machine translation and computer vision. I 
 - Non-terrestrial Network (NTN)
 - AI for communications
 
+# 🔥 News
+- *2024.11*: &nbsp;🎉🎉 I will present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE. 
+
 # 📖 Educations
 - *2023.08 - now*, King Abdullah University of Science and Technology (KAUST)
   - Master of Science, Electrical and Computer Engineering
@@ -38,9 +41,6 @@ My research interest includes neural machine translation and computer vision. I 
 - *2019.09 - 2023.06*, University of Electronic Science and Technology of China (UESTC)
   - Bachelor of Engineering, Network Engineering
   - Chengdu, China
-
-# 🔥 News
-- *2024.11*: &nbsp;🎉🎉 I will present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE. 
 
 # 📝 Publications 
 - [Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect](https://arxiv.org/abs/2502.16179), **Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *arXiv 2025.02*
@@ -66,11 +66,12 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021* . Suzhou Yucai Scholarship, UESTC
 - *2020 - 2022* . Outstanding Students First-Level Scholarships (Three Times), UESTC
 
-# 🎼 Hobbies
+<!--# 🎼 Hobbies
 - Art: Chinese Calligraphy
 - Music: Piano, Saxphone
 - Sports: Table Tennis
-- Other: Cooking
+- Other: Cooking-->
+
 <!--# 💬 Invited Talks
  - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->

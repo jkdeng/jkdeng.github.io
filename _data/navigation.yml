@@ -18,8 +18,8 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Hobbies"
-    url: "/#-hobbies"
+  #- title: "Hobbies"
+  #  url: "/#-hobbies"
 
   #- title: "Invited Talks"
   #  url: "/#-invited-talks"
