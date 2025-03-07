@@ -32,7 +32,8 @@ My research interest includes neural machine translation and computer vision. I 
 - AI for communications
 
 # 🔥 News
-- *2024.11*: &nbsp; I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE. 
+- *2024.11*: &nbsp; I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE.
+- *2023.08*: &nbsp; I join Communication Theory Lab ([CTL](https://ctl.kaust.edu.sa/)) in KAUST as a Master student in Saudi Arabia.
 
 # 📖 Educations
 - *2023.08 - now*, King Abdullah University of Science and Technology (KAUST)
@@ -61,7 +62,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 - *2022* . Person of the Year in College (荣耀信通年度人物), UESTC
-- *2022* . Meritorious Winner, 2022 Mathematical Contest in Modeling (Held by COMAP, USA)
+- *2022* . Meritorious Winner, Mathematical Contest in Modeling (Held by COMAP, USA)
 - *2022* . Xiaomi Scholarship, UESTC
 - *2021* . Suzhou Yucai Scholarship, UESTC
 - *2020 - 2022* . Outstanding Students First-Level Scholarships (Three Times), UESTC
