@@ -25,9 +25,9 @@ author:
   avatar           : "images/Near-Photo.JPG"
   bio              : "Master Student at King Abdullah University of Science and Technology (KAUST), Researcher in Wireless Communication and Artificial Intelligence"
   location         : "Jeddah, Saudi Arabia"
-  employer         : "KAUST"
+  employer         : 
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=s1GWiHEAAAAJ&hl=en&oi=ao"
   email            : "jikang.deng@kaust.edu.sa"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :

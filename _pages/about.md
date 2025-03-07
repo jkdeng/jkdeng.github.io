@@ -53,8 +53,11 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🎖 Honors and Awards
-- *2021.10* . 
-- *2021.09* . 
+- *2022* . Person of the Year in College (荣耀信通年度人物), UESTC
+- *2022* . Meritorious Winner, 2022 Mathematical Contest in Modeling (Held by COMAP, USA)
+- *2022* . Xiaomi Scholarship, UESTC
+- *2021* . Suzhou Yucai Scholarship, UESTC
+- *2020 - 2022* . Outstanding Students First-Level Scholarships (Three Times), UESTC
 
 # 📖 Educations
 - *2023.08 - now*, King Abdullah University of Science and Technology (KAUST)
