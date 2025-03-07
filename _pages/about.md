@@ -20,7 +20,7 @@ redirect_from:
 Welcome! I'm Jikang Deng (邓纪康), a Master's student in Electrical and Computer Engineering at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en/)) under the supervision of [Prof. Mohamed-Slim Alouini](https://cemse.kaust.edu.sa/profiles/mohamed-slim-alouini). I graduated from School of Information and Communication Engineering (SICE), University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)) with a bacher's degree. 
 
 
-My research interests include wireless communication, non-terrestrial network (NTN) and AI for communications. My research aims to bridge the digital divide and connect the unconnected. Please feel free to connect—I’m always open to new ideas and collaborations!
+My research interests include wireless communication, UAV communication, non-terrestrial network (NTN) and AI for communications. My research aims to bridge the digital divide and connect the unconnected. Please feel free to connect—I’m always open to new ideas and collaborations!
 
 
 <strong><span id="PhD_seek" style="color: red;">I'm currently seeking for PhD position in 2025 Fall. Please feel free to contact me at [jikang.deng@kaust.edu.sa] if you have any information. Thank you so much!</span></strong>
@@ -30,6 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔬 Research Interest
 - Wireless Communication
+- UAV Communication
 - Non-terrestrial Network (NTN)
 - AI for communications
 
