@@ -17,12 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Welcome! I'm Jikang Deng, a Master's student in Electrical and Computer Engineering at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en/)) under the supervision of Prof. Mohamed-Slim Alouini. My research interests include wireless communication, non-terrestrial network (NTN) and AI for communications. My research aims to bridge the digital divide and connect the unconnected. Feel free to connect—I’m always open to new ideas and collaborations!
+Welcome! I'm Jikang Deng, a Master's student in Electrical and Computer Engineering at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en/)) under the supervision of [Prof. Mohamed-Slim Alouini](https://cemse.kaust.edu.sa/profiles/mohamed-slim-alouini). I graduated from School of Information and Communication Engineering, University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)) with a bacher's degree. 
 
-<!-- 这是一个注释，Markdown 渲染时不会显示 -->
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include wireless communication, non-terrestrial network (NTN) and AI for communications. My research aims to bridge the digital divide and connect the unconnected. Please feel free to connect—I’m always open to new ideas and collaborations!
 
-<strong><span id="PhD_seek" style="color: red;">I'm currently seeking for PhD position in 2025 Fall. Please feel free to contact me if you have any information.</span></strong>
+🔥🔥 <strong><span id="PhD_seek" style="color: red;">I'm currently seeking for PhD position in 2025 Fall. Please feel free to contact me if you have any information.</span></strong>
+
+<!-- 这是一个注释，Markdown 渲染时不会显示 
+My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
 
 # 🔬 Research Interest
 - Wireless Communication
@@ -30,7 +32,7 @@ My research interest includes neural machine translation and computer vision. I 
 - AI for communications
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*: &nbsp;🎉🎉 I will present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE. 
 
 # 📝 Publications 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
