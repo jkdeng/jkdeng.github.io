@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 16; // 文档的基础字体大小
+$doc-font-size              : 26; // 文档的基础字体大小
 
 /* paragraph indention */
 $paragraph-indent           : false; // 段落缩进设置，true表示启用缩进，false表示不启用
@@ -53,7 +53,7 @@ $light-gray                 : mix(#fff, $gray, 50%); // 浅灰色
 $lighter-gray               : mix(#fff, $gray, 90%); // 更浅的灰色
 
 $body-color                 : #fff; // 主体颜色
-$background-color           : #0a0a0a; // 背景颜色
+$background-color           : #ffffff; // 背景颜色
 $code-background-color      : #fafafa; // 代码背景颜色
 $code-background-color-dark : $light-gray; // 深色代码背景颜色
 $text-color                 : $dark-gray; // 文字颜色
