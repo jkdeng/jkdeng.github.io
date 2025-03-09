@@ -2,7 +2,7 @@
    SINGLE PAGE/POST
    ========================================================================== */
 
-#main {
+#main { /*主容器的外观和布局*/
   @include container;
   @include clearfix;
   margin-top: 1em;
@@ -11,13 +11,13 @@
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
-  @include breakpoint($x-large) {
+  @include breakpoint($x-large) {   /*超大屏幕*/
     max-width: $x-large;
   }
 }
 
-.page {
-  @include breakpoint($large) {
+.page {   /*页面样式*/
+  @include breakpoint($large) {   /*大屏幕*/
     @include span(10 of 12 last);
     @include prefix(0.5 of 12);
     @include suffix(0 of 12);
@@ -60,14 +60,14 @@
         margin-top: -10em;
     }
   }
-  h1 {
+  h1 {  /*一级标题*/
     margin-top: 1em;
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    padding-bottom: 0.5em;  /*下边距*/
+    border-bottom: 1px solid $border-color; /*set a bottom solid line with specified color*/
   }
 
   p, li, dl {
-    font-size: 1em;
+    font-size: 5em;
   }
 
   /* paragraph indents */

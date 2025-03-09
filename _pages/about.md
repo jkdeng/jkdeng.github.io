@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<!-- # 🖋 About Me -->
 Welcome! I'm Jikang Deng (邓纪康), a Master's student in Electrical and Computer Engineering at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en/)) under the supervision of [Prof. Mohamed-Slim Alouini](https://cemse.kaust.edu.sa/profiles/mohamed-slim-alouini). I graduated from School of Information and Communication Engineering (SICE), University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)) with a bacher's degree. 
 
 
