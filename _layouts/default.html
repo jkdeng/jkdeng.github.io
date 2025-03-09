@@ -7,14 +7,6 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <style>
-      .content-section {
-        display: none;
-      }
-      .content-section.active {
-        display: block;
-      }
-    </style>
   </head>
 
   <body>
@@ -28,32 +20,14 @@ layout: compress
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
         <div class="page__inner-wrap">
-          <section id="home" class="page__content content-section active" itemprop="text">
+          <section class="page__content" itemprop="text">
             {{ content }}
           </section>
-          <section id="research" class="page__content content-section" itemprop="text">
-            <h1>Research Interest</h1>
-            <ul>
-              <li>Wireless Communication</li>
-              <li>UAV Communication</li>
-              <li>Non-terrestrial Network (NTN)</li>
-              <li>AI for communications</li>
-            </ul>
-          </section>
-          <!-- 其他内容部分 -->
         </div>
       </article>
     </div>
 
     {% include scripts.html %}
-    <script>
-      function showContent(sectionId) {
-        var sections = document.getElementsByClassName('content-section');
-        for (var i = 0; i < sections.length; i++) {
-          sections[i].classList.remove('active');
-        }
-        document.getElementById(sectionId).classList.add('active');
-      }
-    </script>
+
   </body>
 </html>
