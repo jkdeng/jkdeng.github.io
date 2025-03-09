@@ -371,8 +371,7 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  // color: $gray;
-  color: $github-color;
+  color: $gray;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
@@ -381,7 +380,8 @@
   box-shadow: $box-shadow;
 
   .nav__title {
-    color: #fff;
+    // color: #fff;
+    color: #be2a2a;
     font-size: $type-size-6;
     background: $primary-color;
     border-top-left-radius: $border-radius;
