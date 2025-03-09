@@ -83,7 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: mix(#000000, $gray, 25%);
+      color: mix(#ffffff, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -371,7 +371,8 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-  color: $gray;
+  // color: $gray;
+  color: $github-color;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
