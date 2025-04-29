@@ -23,8 +23,8 @@ Welcome! I'm Jikang Deng (邓纪康), a Master's student in Electrical and Compu
 
 My research interests include wireless communication, UAV communication, non-terrestrial network (NTN) and AI for communications. My research aims to bridge the digital divide and connect the unconnected. Please feel free to connect—I’m always open to new ideas and collaborations!
 
-
-<strong><span id="PhD_seek" style="color: red;">I'm currently seeking for PhD position in 2025 Fall. Please feel free to contact me at [jikang.deng[at]kaust.edu.sa] if you have any information. Thank you so much!</span></strong>
+<!--
+<strong><span id="PhD_seek" style="color: red;">I'm currently seeking for PhD position in 2025 Fall. Please feel free to contact me at [jikang.deng[at]kaust.edu.sa] if you have any information. Thank you so much!</span></strong>-->
 
 <!-- 这是一个注释，Markdown 渲染时不会显示 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).-->
@@ -36,6 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 - AI for communications
 
 # 🔔 News
+- *2025.04.29*: I successfully defend my master's thesis "Hierarchical Distributed Coordination for Heterogeneous Non-terrestrial Network" in KAUST.
 - *2024.11*: I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abu Dhabi, UAE.
 - *2023.08*: I join Communication Theory Lab ([CTL](https://ctl.kaust.edu.sa/)) in KAUST as a Master student in Saudi Arabia.
 <!--- *2024.11*: &nbsp;🔥🔥 I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE.-->
