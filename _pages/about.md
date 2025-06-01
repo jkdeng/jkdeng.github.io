@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- # 🖋 About Me -->
-Welcome! I'm Jikang Deng (邓纪康), a Master's student in Electrical and Computer Engineering at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en/)) under the supervision of [Prof. Mohamed-Slim Alouini](https://cemse.kaust.edu.sa/profiles/mohamed-slim-alouini). I graduated from School of Information and Communication Engineering (SICE), University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)) with a bacher's degree. 
+Welcome! I'm Jikang Deng (邓纪康), a Master's student in Electrical and Computer Engineering at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en/)) under the supervision of [Prof. Mohamed-Slim Alouini](https://cemse.kaust.edu.sa/profiles/mohamed-slim-alouini). I obtained my master's degree of science from KAUST in 2025. I graduated from School of Information and Communication Engineering (SICE), University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)) with a bacher's degree in 2023. 
 
 
-My research interests include wireless communication, UAV communication, non-terrestrial network (NTN) and AI for communications. My research aims to bridge the digital divide and connect the unconnected. Please feel free to connect—I’m always open to new ideas and collaborations!
+My research interests include wireless communication, non-terrestrial network (NTN), near-field communication, and AI for communications. My research aims to bridge the digital divide and connect the unconnected. Please feel free to connect—I’m always open to new ideas and collaborations!
 
 <!--
 <strong><span id="PhD_seek" style="color: red;">I'm currently seeking for PhD position in 2025 Fall. Please feel free to contact me at [jikang.deng[at]kaust.edu.sa] if you have any information. Thank you so much!</span></strong>-->
@@ -36,13 +36,14 @@ My research interest includes neural machine translation and computer vision. I 
 - AI for communications
 
 # 🔔 News
+- *2025.06.01*: I graduated from KAUST with a Master's degree of science.
 - *2025.04.29*: I successfully defend my master's thesis "Hierarchical Distributed Coordination for Heterogeneous Non-terrestrial Network" in KAUST.
 - *2024.11*: I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abu Dhabi, UAE.
 - *2023.08*: I join Communication Theory Lab ([CTL](https://ctl.kaust.edu.sa/)) in KAUST as a Master student in Saudi Arabia.
 <!--- *2024.11*: &nbsp;🔥🔥 I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE.-->
 
 # 📖 Educations
-- *2023.08 - now*: King Abdullah University of Science and Technology (KAUST)
+- *2023.08 - 2025.06*: King Abdullah University of Science and Technology (KAUST)
   - Master of Science, Electrical and Computer Engineering
   - Jeddah, Saudi Arabia
 - *2019.09 - 2023.06*: University of Electronic Science and Technology of China (UESTC)
