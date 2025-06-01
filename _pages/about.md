@@ -31,8 +31,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔬 Research Interest
 - Wireless Communication
-- UAV Communication
 - Non-terrestrial Network (NTN)
+- Near-field Communication
 - AI for communications
 
 # 🔔 News
