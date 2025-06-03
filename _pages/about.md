@@ -52,22 +52,28 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Research Experience
 ## Publications 
-- [Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect](https://arxiv.org/abs/2502.16179), **Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *arXiv 2025.02*
+<!-- - [Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect](https://arxiv.org/abs/2502.16179), **Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *arXiv 2025.02*-->
 
-- [Distributed Coordination for Heterogeneous Non-Terrestrial Networks](https://arxiv.org/abs/2502.17366), **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini, *arXiv 2025.02*
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/deng2025orthogonality.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-## Academic Service
-- Reviewer for IEEE Wireless Communications Letters (WCL)
-- Reviewer for IEEE Open Journal of the Communications Society (OJ-COMS)
-- Reviewer for IEEE International Conference on Communications (ICC)
+[Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect](https://arxiv.org/abs/2502.16179)
 
+**Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *arXiv 2025.02*
+
+<!-- - [Distributed Coordination for Heterogeneous Non-Terrestrial Networks](https://arxiv.org/abs/2502.17366), **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini, *arXiv 2025.02*-->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/deng2025distributed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Distributed Coordination for Heterogeneous Non-Terrestrial Networks](https://arxiv.org/abs/2502.17366)
 
-**Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *arXiv 2025.02*
+**Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini, *arXiv 2025.02*
+
+## Academic Service
+- Reviewer for IEEE Wireless Communications Letters (WCL)
+- Reviewer for IEEE Open Journal of the Communications Society (OJ-COMS)
+- Reviewer for IEEE International Conference on Communications (ICC)
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
