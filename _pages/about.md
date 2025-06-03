@@ -61,7 +61,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *arXiv 2025.02*
 <hr>
-This paper 
+- *Index Terms:* LoRa, Orthogonality, Satellite Communication, Doppler Effect
+- *Contributions:*
 </div>
 </div> 
 
@@ -73,6 +74,9 @@ This paper
 [Distributed Coordination for Heterogeneous Non-Terrestrial Networks](https://arxiv.org/abs/2502.17366)
 
 **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini, *arXiv 2025.02*
+<hr>
+- *Index Terms:* Distributed Coordination, Distributed Learning, Heterogeneous Network, Non-terrestrial Network
+- *Contributions:*
 </div>
 </div> 
 
