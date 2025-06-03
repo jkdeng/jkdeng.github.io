@@ -54,21 +54,25 @@ My research interest includes neural machine translation and computer vision. I 
 ## Publications 
 <!-- - [Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect](https://arxiv.org/abs/2502.16179), **Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *arXiv 2025.02*-->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/deng2025orthogonality.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025orthogonality.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect](https://arxiv.org/abs/2502.16179)
 
 **Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *arXiv 2025.02*
+</div>
+</div> -->
 
 <!-- - [Distributed Coordination for Heterogeneous Non-Terrestrial Networks](https://arxiv.org/abs/2502.17366), **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini, *arXiv 2025.02*-->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/deng2025distributed.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025distributed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Distributed Coordination for Heterogeneous Non-Terrestrial Networks](https://arxiv.org/abs/2502.17366)
 
 **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini, *arXiv 2025.02*
+</div>
+</div> -->
 
 ## Academic Service
 - Reviewer for IEEE Wireless Communications Letters (WCL)
