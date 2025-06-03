@@ -60,6 +60,8 @@ My research interest includes neural machine translation and computer vision. I 
 [Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect](https://arxiv.org/abs/2502.16179)
 
 **Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *arXiv 2025.02*
+<hr>
+This paper 
 </div>
 </div> 
 
