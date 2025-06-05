@@ -36,7 +36,8 @@ My research interest includes neural machine translation and computer vision. I 
 - AI for communications
 
 # 🔔 News
-- *2025.06.01*: I graduated from KAUST with a Master's degree of science.
+- *2025.06.04*: My first transaction paper "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" gets accepted by IEEE TAES.
+- *2025.06.01*: I graduate from KAUST with a Master's degree of science.
 - *2025.04.29*: I successfully defend my master's thesis "Hierarchical Distributed Coordination for Heterogeneous Non-terrestrial Network" in KAUST.
 - *2024.11*: I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abu Dhabi, UAE.
 - *2023.08*: I join Communication Theory Lab ([CTL](https://ctl.kaust.edu.sa/)) in KAUST as a Master student in Saudi Arabia.
@@ -46,12 +47,12 @@ My research interest includes neural machine translation and computer vision. I 
 ## Publications 
 <!-- - [Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect](https://arxiv.org/abs/2502.16179), **Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *arXiv 2025.02*-->
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025orthogonality.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAES</div><img src='images/deng2025orthogonality.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect](https://arxiv.org/abs/2502.16179)
 
-**Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *arXiv 2025.02*
+**Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *Accepted by IEEE TAES 2025.06*
 <hr>
 - **Index Terms**: LoRa, Orthogonality, Satellite Communication, Doppler Effect
 - **Main Contribution**: This paper provides an comprehensive analysis of LoRa's orthogonality in uplink satellite communication scenario under either high Doppler shift or high Doppler rate. 
