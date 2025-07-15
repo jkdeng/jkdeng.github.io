@@ -64,7 +64,7 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025distributed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Distributed Coordination for Heterogeneous Non-Terrestrial Networks](https://arxiv.org/abs/2502.17366)
+Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](https://arxiv.org/abs/2502.17366)]
 
 **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini, *arXiv*, Feb. 2025.
 <hr>
