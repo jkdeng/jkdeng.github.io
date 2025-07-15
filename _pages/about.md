@@ -18,10 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <!-- # 🖋 About Me -->
-Welcome! I'm Jikang Deng (邓纪康), a Master's student in Electrical and Computer Engineering at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en/)) under the supervision of [Prof. Mohamed-Slim Alouini](https://cemse.kaust.edu.sa/profiles/mohamed-slim-alouini). I obtained my master's degree of science from KAUST in 2025. I graduated from School of Information and Communication Engineering (SICE), University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)) with a bacher's degree in 2023. 
+Welcome! I'm Jikang Deng (邓纪康), a PhD student in Electrical and Computer Engineering at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en/)) under the supervision of [Prof. Mohamed-Slim Alouini](https://cemse.kaust.edu.sa/profiles/mohamed-slim-alouini). I obtained my master's degree of science from KAUST in 2025. I graduated from School of Information and Communication Engineering (SICE), University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)) with a bacher's degree in 2023. <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a>
 
 
-My research interests include wireless communication, non-terrestrial network (NTN), near-field communication, and AI for communications. My research aims to bridge the digital divide and connect the unconnected. Please feel free to connect—I’m always open to new ideas and collaborations!
+My research interests include wireless communication, non-terrestrial network (NTN), AI for communications, and near-field communication. My research aims to bridge the digital divide and connect the unconnected. Please feel free to connect—I’m always open to new ideas and collaborations!
 
 <!--
 <strong><span id="PhD_seek" style="color: red;">I'm currently seeking for PhD position in 2025 Fall. Please feel free to contact me at [jikang.deng[at]kaust.edu.sa] if you have any information. Thank you so much!</span></strong>-->
@@ -32,15 +32,16 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔬 Research Interest
 - Wireless Communication
 - Non-terrestrial Network (NTN)
-- Near-field Communication
 - AI for communications
+- Near-field Communication
 
 # 🔔 News
-- *2025.06.04*: My 1st first-authored full journal paper "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" gets accepted by IEEE TAES.
-- *2025.06.01*: I graduate from KAUST with a Master's degree of science.
-- *2025.04.29*: I successfully defend my master's thesis "Hierarchical Distributed Coordination for Heterogeneous Non-terrestrial Network" in KAUST.
-- *2024.11*: I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abu Dhabi, UAE.
-- *2023.08*: I join Communication Theory Lab ([CTL](https://ctl.kaust.edu.sa/)) in KAUST as a Master student in Saudi Arabia.
+- *2025.06*: I continued my research at KAUST as a PhD student in the CTL.
+- *2025.06.04*: My 1st first-authored full journal paper "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" got accepted by IEEE TAES.
+- *2025.06.01*: I graduated from KAUST with a Master's degree of science.
+- *2025.04.29*: I successfully defended my master's thesis "Hierarchical Distributed Coordination for Heterogeneous Non-terrestrial Network" in KAUST.
+- *2024.11*: I presented my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abu Dhabi, UAE.
+- *2023.08*: I joined Communication Theory Lab ([CTL](https://ctl.kaust.edu.sa/)) in KAUST as a Master student in Saudi Arabia.
 <!--- *2024.11*: &nbsp;🔥🔥 I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE.-->
 
 # 📝 Research Experience
@@ -91,7 +92,10 @@ Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](htt
 </div> -->
 
 # 📖 Educations
-- *2023.08 - 2025.06*: King Abdullah University of Science and Technology (KAUST)
+- *2025.06 - Present*: King Abdullah University of Science and Technology (KAUST)
+  - Doctor of Philosophy, Electrical and Computer Engineering
+  - Jeddah, Saudi Arabia
+- *2023.08 - 2025.05*: King Abdullah University of Science and Technology (KAUST)
   - Master of Science, Electrical and Computer Engineering
   - Jeddah, Saudi Arabia
 - *2019.09 - 2023.06*: University of Electronic Science and Technology of China (UESTC)
