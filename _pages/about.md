@@ -54,7 +54,7 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
 
 **Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *IEEE TAES*, Jun. 2025.
 <hr>
-- **Index Terms**: LoRa, Orthogonality, Satellite Communication, Doppler Effect
+- **Key Words**: LoRa, Orthogonality, Satellite Communication, Doppler Effect
 - **Main Contribution**: This paper provides an comprehensive analysis of LoRa's orthogonality in uplink satellite communication scenario under either high Doppler shift or high Doppler rate. 
 </div>
 </div> 
@@ -68,7 +68,7 @@ Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](htt
 
 **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini, *arXiv*, Feb. 2025.
 <hr>
-- **Index Terms**: Distributed Coordination, Distributed Learning, Heterogeneous Network, Non-terrestrial Network(NTN)
+- **Key Words**: Distributed Coordination, Distributed Learning, Heterogeneous Network, Non-terrestrial Network(NTN)
 - **Main Contribution**: This paper summarizes the unique characteristics of each NTN platform, identifes the communication challenges, and proposes the potential coordinated solution based on multi-agent deep reinforcement learning (MADRL) in heterogeneous NTN.
 </div>
 </div> 
