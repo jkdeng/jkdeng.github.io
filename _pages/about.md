@@ -53,7 +53,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect [[IEEE TAES](https://ieeexplore.ieee.org/document/11037635)] [[arXiv](https://arxiv.org/pdf/2502.16179)]
 
-**Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *IEEE TAES*, Jun. 2025. (https://scholar.google.com/citations?view_op=view_citation&hl=en&user=s1GWiHEAAAAJ&citation_for_view=s1GWiHEAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *IEEE TAES*, Jun. 2025. 
+<!--(https://scholar.google.com/citations?view_op=view_citation&hl=en&user=s1GWiHEAAAAJ&citation_for_view=s1GWiHEAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <hr>
 - **Key Words**: LoRa, Orthogonality, Satellite Communication, Doppler Effect
 - **Main Contribution**: This paper provides an comprehensive analysis of LoRa's orthogonality in uplink satellite communication scenario under either high Doppler shift or high Doppler rate. 
@@ -67,7 +68,8 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
 
 Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](https://arxiv.org/abs/2502.17366)]
 
-**Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini, *arXiv*, Feb. 2025. (https://scholar.google.com/citations?view_op=view_citation&hl=en&user=s1GWiHEAAAAJ&citation_for_view=s1GWiHEAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini, *arXiv*, Feb. 2025. 
+<!--(https://scholar.google.com/citations?view_op=view_citation&hl=en&user=s1GWiHEAAAAJ&citation_for_view=s1GWiHEAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 <hr>
 - **Key Words**: Distributed Coordination, Distributed Learning, Heterogeneous Network, Non-terrestrial Network(NTN)
 - **Main Contribution**: This paper summarizes the unique characteristics of each NTN platform, identifes the communication challenges, and proposes the potential coordinated solution based on multi-agent deep reinforcement learning (MADRL) in heterogeneous NTN.
