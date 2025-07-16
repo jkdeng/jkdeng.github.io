@@ -66,7 +66,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025distributed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](https://arxiv.org/abs/2502.17366)]
+*Distributed Coordination for Heterogeneous Non-Terrestrial Networks* [[arXiv](https://arxiv.org/abs/2502.17366)]
 
 **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini | *arXiv*, Feb. 2025. 
 <!--(https://scholar.google.com/citations?view_op=view_citation&hl=en&user=s1GWiHEAAAAJ&citation_for_view=s1GWiHEAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
@@ -82,7 +82,7 @@ Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](htt
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025native.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview [arXiv]
+*Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview* [arXiv]
 
 **Jikang Deng**, Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa | *arXiv*, Jul. 2025. 
 <hr>
