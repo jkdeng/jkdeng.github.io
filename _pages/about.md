@@ -54,7 +54,7 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAES</div><img src='images/deng2025orthogonality.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *IEEE TAES*, Jun. 2025. 
+**Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini | *IEEE TAES*, Jun. 2025. 
 <strong><span class='show_paper_citations' data='s1GWiHEAAAAJ:qjMakFHDy7sC'></span></strong>
 <hr>
 - **Key Words**: LoRa, Orthogonality, Satellite Communication, Doppler Effect
@@ -69,7 +69,7 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
 
 Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](https://arxiv.org/abs/2502.17366)]
 
-**Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini, *arXiv*, Feb. 2025. 
+**Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini | *arXiv*, Feb. 2025. 
 <!--(https://scholar.google.com/citations?view_op=view_citation&hl=en&user=s1GWiHEAAAAJ&citation_for_view=s1GWiHEAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
 <strong><span class='show_paper_citations' data='s1GWiHEAAAAJ:2osOgNQ5qMEC'></span></strong>
 <hr>
@@ -83,7 +83,7 @@ Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](htt
 
 Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview [arXiv]
 
-**Jikang Deng**, Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa, *arXiv*, Jul. 2025. 
+**Jikang Deng**, Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa | *arXiv*, Jul. 2025. 
 <hr>
 - **Key Words**: 6G, AI, Edge Computing and Edge AI, End-to-End Orchestration, Non-terrestrial Network (NTN), Open RAN (ORAN)
 - **Main Contribution**: This paper outlines the state-of-the-art research on ORAN for NTNs, present the DevOps challenges that motivate the adoption of ORAN solutions, propose the ORAN-based NTN framework in terms of its features, components, and architectures. This paper also discusses flexible fronthaul split, RAN intelligent controllers (RICs) enhancement for distributed learning, and multi-domain service management. The future research directions as well as the candidate use cases when employing ORAN-based NTN framework are also investigated in this paper.
