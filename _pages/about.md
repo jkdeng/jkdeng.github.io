@@ -19,8 +19,9 @@ redirect_from:
 
 <!-- # 🖋 About Me -->
 Welcome! I'm Jikang Deng (邓纪康), a PhD student in Electrical and Computer Engineering at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en/)) under the supervision of [Prof. Mohamed-Slim Alouini](https://cemse.kaust.edu.sa/profiles/mohamed-slim-alouini). I obtained my master's degree of science from KAUST in 2025. I graduated from School of Information and Communication Engineering (SICE), University of Electronic Science and Technology of China ([UESTC](https://en.uestc.edu.cn/)) with a bacher's degree in 2023. 
-<a href='https://scholar.google.com/citations?user=s1GWiHEAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<!-- <a href='https://scholar.google.com/citations?user=s1GWiHEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
+<a href='https://scholar.google.com/citations?user=4FA6C0AAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Frayeren.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 My research interests include wireless communication, non-terrestrial network (NTN), AI for communications, and near-field communication. My research aims to bridge the digital divide and connect the unconnected. Please feel free to connect—I’m always open to new ideas and collaborations!
 
@@ -70,7 +71,7 @@ My research interest includes neural machine translation and computer vision. I 
 *Distributed Coordination for Heterogeneous Non-Terrestrial Networks* [[arXiv](https://arxiv.org/abs/2502.17366)]
 
 **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini | *arXiv*, Feb. 2025. 
-<!-- <strong><span class='show_paper_citations' data='s1GWiHEAAAAJ:2osOgNQ5qMEC'></span></strong> -->
+<strong><span class='show_paper_citations' data='s1GWiHEAAAAJ:2osOgNQ5qMEC'></span></strong>
 <hr>
 - **Key Words**: Distributed Coordination, Distributed Learning, Heterogeneous Network, Non-terrestrial Network(NTN)
 - **Main Contribution**: This paper summarizes the unique characteristics of each NTN platform, identifes the communication challenges, and proposes the potential coordinated solution based on multi-agent deep reinforcement learning (MADRL) in heterogeneous NTN.
