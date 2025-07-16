@@ -64,10 +64,10 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
 
 <!--------------------- New paper -------------------------------->
 
-Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](https://arxiv.org/abs/2502.17366)]
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025distributed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](https://arxiv.org/abs/2502.17366)]
 
 **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini | *arXiv*, Feb. 2025. 
 <!--(https://scholar.google.com/citations?view_op=view_citation&hl=en&user=s1GWiHEAAAAJ&citation_for_view=s1GWiHEAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>-->
@@ -80,14 +80,13 @@ Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](htt
 
 <!--------------------- New paper -------------------------------->
 
-Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview [arXiv]
-
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025native.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview [arXiv]
 **Jikang Deng**, Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa | *arXiv*, Jul. 2025. 
 <hr>
-- **Key Words**: 6G, AI, Edge Computing and Edge AI, End-to-End Orchestration, Non-terrestrial Network (NTN), Open RAN (ORAN)
+- **Key Words**: 6G, AI, End-to-End Orchestration, NTN, Open RAN (ORAN)
 - **Main Contribution**: This paper reviews ORAN research for NTNs, highlights DevOps challenges, and proposes an ORAN-based NTN framework with key features, components, and architectures. It discusses flexible fronthaul split, RICs enhancement for distributed learning, and multi-domain service management. Future directions and potential use cases are also explored.
 </div>
 </div> 
