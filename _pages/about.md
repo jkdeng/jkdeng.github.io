@@ -87,7 +87,7 @@ Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestr
 **Jikang Deng**, Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa | *arXiv*, Jul. 2025. 
 <hr>
 - **Key Words**: 6G, AI, End-to-End Orchestration, NTN, Open RAN (ORAN)
-- **Main Contribution**: This paper reviews ORAN research for NTNs, highlights DevOps challenges, and proposes an ORAN-based NTN framework with key features, components, and architectures. It discusses flexible fronthaul split, RICs enhancement for distributed learning, and multi-domain service management. Future directions and potential use cases are also explored.
+- **Main Contribution**: This paper reviews ORAN research for NTNs, highlights DevOps challenges, proposes an ORAN-based NTN framework with key features, components, and architectures, and also explores the future research directions and potential use cases.
 </div>
 </div> 
 
