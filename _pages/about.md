@@ -50,7 +50,6 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- - [Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect](https://arxiv.org/abs/2502.16179), **Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini, *arXiv 2025.02*-->
 
 Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect [[IEEE TAES](https://ieeexplore.ieee.org/document/11037635)] [[arXiv](https://arxiv.org/pdf/2502.16179)]
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAES</div><img src='images/deng2025orthogonality.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <hr>
@@ -86,7 +85,7 @@ Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestr
 **Jikang Deng**, Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa | *arXiv*, Jul. 2025. 
 <hr>
 - **Key Words**: 6G, AI, Edge Computing and Edge AI, End-to-End Orchestration, Non-terrestrial Network (NTN), Open RAN (ORAN)
-- **Main Contribution**: This paper outlines the state-of-the-art research on ORAN for NTNs, present the DevOps challenges that motivate the adoption of ORAN solutions, propose the ORAN-based NTN framework in terms of its features, components, and architectures. This paper also discusses flexible fronthaul split, RAN intelligent controllers (RICs) enhancement for distributed learning, and multi-domain service management. The future research directions as well as the candidate use cases when employing ORAN-based NTN framework are also investigated in this paper.
+- **Main Contribution**: This paper reviews ORAN research for NTNs, highlights DevOps challenges, and proposes an ORAN-based NTN framework with key features, components, and architectures. It discusses flexible fronthaul split, RICs enhancement for distributed learning, and multi-domain service management. Future directions and potential use cases are also explored.
 </div>
 </div> 
 
