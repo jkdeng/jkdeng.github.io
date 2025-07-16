@@ -78,6 +78,18 @@ Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](htt
 </div>
 </div> 
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025native.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview [arXiv]
+
+**Jikang Deng**, Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa, *arXiv*, Jul. 2025. 
+<hr>
+- **Key Words**: 6G, AI, Edge Computing and Edge AI, End-to-End Orchestration, Non-terrestrial Network (NTN), Open RAN (ORAN)
+- **Main Contribution**: This paper outlines the state-of-the-art research on ORAN for NTNs, present the DevOps challenges that motivate the adoption of ORAN solutions, propose the ORAN-based NTN framework in terms of its features, components, and architectures. This paper also discusses flexible fronthaul split, RAN intelligent controllers (RICs) enhancement for distributed learning, and multi-domain service management. The future research directions as well as the candidate use cases when employing ORAN-based NTN framework are also investigated in this paper.
+</div>
+</div> 
+
 ## Academic Service
 - Reviewer for IEEE Wireless Communications Letters (WCL)
 - Reviewer for IEEE Open Journal of the Communications Society (OJ-COMS)
