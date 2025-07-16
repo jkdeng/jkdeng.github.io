@@ -53,7 +53,7 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAES</div><img src='images/deng2025orthogonality.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+<hr>
 **Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini | *IEEE TAES*, Jun. 2025. 
 <strong><span class='show_paper_citations' data='s1GWiHEAAAAJ:qjMakFHDy7sC'></span></strong>
 <hr>
