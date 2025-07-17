@@ -83,7 +83,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025native.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-*Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview* [arXiv]
+*Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview* [[arXiv](https://arxiv.org/abs/2507.11935)]
 
 **Jikang Deng**, Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa | *arXiv*, Jul. 2025. 
 <hr>
