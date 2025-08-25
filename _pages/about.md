@@ -42,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.04.29*: I successfully defended my master's thesis "*Hierarchical Distributed Coordination for Heterogeneous Non-terrestrial Network*" in KAUST.
 - *2024.11*: I presented my poster "*Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect*" in 2024 6G Summit, Abu Dhabi, UAE.
 - *2023.08*: I joined Communication Theory Lab ([CTL](https://ctl.kaust.edu.sa/)) in KAUST as a Master student in Saudi Arabia.
-- *2023.06*: I graduated from UETSC with the Bachelor of Engineering (B.Eng.) degree in Network Engineering.
+- *2023.06*: I graduated from UESTC with the Bachelor of Engineering (B.Eng.) degree in Network Engineering.
 <!--- *2024.11*: &nbsp;🔥🔥 I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE.-->
 
 # 📝 Research Experience
