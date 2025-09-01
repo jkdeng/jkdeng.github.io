@@ -94,9 +94,11 @@ My research interest includes neural machine translation and computer vision. I 
 </div> 
 
 ## Academic Service
+- Reviewer for IEEE Communications Magazine (COMMAG)
 - Reviewer for IEEE Wireless Communications Letters (WCL)
 - Reviewer for IEEE Open Journal of the Communications Society (OJ-COMS)
 - Reviewer for IEEE International Conference on Communications (ICC)
+
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
