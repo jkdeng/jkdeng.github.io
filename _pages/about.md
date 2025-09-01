@@ -36,6 +36,7 @@ My research interest includes neural machine translation and computer vision. I 
 - Near-field Communication
 
 # 🔔 News
+- *2025.09*: 🎉 Our magazine paper work titled "*Distributed Coordination for Heterogeneous Non-Terrestrial Networks*" was highlighted in the September 2025 issue of *IEEE Spectrum*.
 - *2025.06*: 🎉 I continued my research at KAUST as a PhD student in the CTL.
 - *2025.06.04*: 🎉 My 1st first-authored full journal paper "*Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect*" got accepted by IEEE TAES.
 - *2025.06.01*: I graduated from KAUST with the Master of Science (M.Sc.) degree in Electrical and Computer Engineering.
@@ -57,7 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- <strong><span class='show_paper_citations' data='s1GWiHEAAAAJ:qjMakFHDy7sC'></span></strong> -->
 
 <hr>
-- **Key Words**: LoRa, Orthogonality, Satellite Communication, Doppler Effect
+<!-- - **Key Words**: LoRa, Orthogonality, Satellite Communication, Doppler Effect -->
 - **Main Contribution**: This paper provides an comprehensive analysis of LoRa's orthogonality in uplink satellite communication scenario under either high Doppler shift or high Doppler rate. 
 </div>
 </div> 
@@ -72,8 +73,9 @@ My research interest includes neural machine translation and computer vision. I 
 **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini | *arXiv*, Feb. 2025. 
 <!-- <strong><span class='show_paper_citations' data='s1GWiHEAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 <hr>
-- **Key Words**: Distributed Coordination, Distributed Learning, Heterogeneous Network, Non-terrestrial Network(NTN)
+<!-- - **Key Words**: Distributed Coordination, Distributed Learning, Heterogeneous Network, Non-terrestrial Network(NTN) -->
 - **Main Contribution**: This paper summarizes the unique characteristics of each NTN platform, identifes the communication challenges, and proposes the potential coordinated solution based on multi-agent deep reinforcement learning (MADRL) in heterogeneous NTN.
+- **Academic Impact**: This paper has been highlighted in the September 2025 issue of [[*IEEE Spectrum*](https://spectrum.ieee.org/6g-wireless)].
 </div>
 </div> 
 
@@ -86,7 +88,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Jikang Deng**, Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa | *arXiv*, Jul. 2025. 
 <hr>
-- **Key Words**: 6G, AI, End-to-End Orchestration, NTN, Open RAN (ORAN)
+<!-- - **Key Words**: 6G, AI, End-to-End Orchestration, NTN, Open RAN (ORAN) -->
 - **Main Contribution**: This paper reviews ORAN research for NTNs, highlights DevOps challenges, proposes an ORAN-based NTN framework with key features, components, and architectures, and also explores the future research directions and potential use cases.
 </div>
 </div> 
