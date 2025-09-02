@@ -36,9 +36,9 @@ My research interest includes neural machine translation and computer vision. I 
 - Near-field Communication
 
 # 🔔 News
-- *2025.09*: 🎉 Our magazine paper work titled "*Distributed Coordination for Heterogeneous Non-Terrestrial Networks*" was highlighted in the September 2025 issue of *IEEE Spectrum*.
-- *2025.06*: 🎉 I continued my research at KAUST as a PhD student in the CTL.
-- *2025.06*: 🎉 My 1st first-authored full journal paper "*Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect*" got accepted by IEEE TAES. <!-- Detailed Date 06.04 -->
+- *2025.09*: 🎉 Our magazine paper work titled "*Distributed Coordination for Heterogeneous Non-Terrestrial Networks*" was highlighted in the September 2025 issue of *IEEE Spectrum*!
+- *2025.06*: 🎉 I continued my research at KAUST as a PhD student in the CTL!
+- *2025.06*: 🎉 My 1st first-authored full journal paper "*Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect*" got accepted by IEEE TAES! <!-- Detailed Date 06.04 -->
 - *2025.06*: I graduated from KAUST with the Master of Science (M.Sc.) degree in Electrical and Computer Engineering. <!-- Detailed Date 06.01 -->
 - *2025.04*: I successfully defended my master's thesis "*Hierarchical Distributed Coordination for Heterogeneous Non-terrestrial Network*" in KAUST. <!-- Detailed Date 04.29 -->
 - *2024.11*: I presented my poster "*Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect*" in 2024 6G Summit, Abu Dhabi, UAE.
@@ -75,7 +75,7 @@ My research interest includes neural machine translation and computer vision. I 
 <hr>
 <!-- - **Key Words**: Distributed Coordination, Distributed Learning, Heterogeneous Network, Non-terrestrial Network(NTN) -->
 - **Main Contribution**: This paper summarizes the unique characteristics of each NTN platform, identifes the communication challenges, and proposes the potential coordinated solution based on multi-agent deep reinforcement learning (MADRL) in heterogeneous NTN.
-- **Academic Impact**: This paper has been highlighted in the September 2025 issue of [[*IEEE Spectrum*](https://spectrum.ieee.org/6g-wireless)].
+- **Academic Impact**: This paper has been highlighted in the September 2025 issue of [[*IEEE Spectrum*](https://spectrum.ieee.org/6g-wireless)]!
 </div>
 </div> 
 
