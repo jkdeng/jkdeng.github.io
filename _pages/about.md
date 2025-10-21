@@ -59,7 +59,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <hr>
 <!-- - **Key Words**: LoRa, Orthogonality, Satellite Communication, Doppler Effect -->
-- **Main Contribution**: This paper comprehensively analyzes LoRa's orthogonality in satellite communication under Doppler effect. It reveals the *direct impact* of differential Doppler shift on the cross-correlation variations and offers *practical guidelines* for future LoRa configurations in satellite communication.
+- **Main Contribution**: This paper comprehensively analyzes LoRa's orthogonality in satellite communication under Doppler effect. It reveals the **direct impact** of differential Doppler shift on the cross-correlation variations and offers **practical guidelines** for future LoRa configurations in satellite communication.
 </div>
 </div> 
 
