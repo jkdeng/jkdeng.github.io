@@ -38,7 +38,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 🔔 News
 - *2025.09*: 🎉 Our magazine paper work titled "*Distributed Coordination for Heterogeneous Non-Terrestrial Networks*" was featured in the September 2025 issue of *IEEE Spectrum* [[Link](https://spectrum.ieee.org/6g-wireless)]!
 - *2025.06*: 🎉 I continued my research at KAUST as a PhD student in the CTL!
-- *2025.06*: 🎉 My 1st first-authored full journal paper "*Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect*" got accepted by IEEE TAES! <!-- Detailed Date 06.04 -->
+- *2025.06*: 🎉 My 1st first-authored full journal paper "*Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect*" got accepted by *IEEE TAES*! <!-- Detailed Date 06.04 -->
 - *2025.06*: I graduated from KAUST with the Master of Science (M.Sc.) degree in Electrical and Computer Engineering. <!-- Detailed Date 06.01 -->
 - *2025.04*: I successfully defended my master's thesis "*Hierarchical Distributed Coordination for Heterogeneous Non-terrestrial Network*" in KAUST. <!-- Detailed Date 04.29 -->
 - *2024.11*: I presented my poster "*Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect*" in 2024 6G Summit, Abu Dhabi, UAE.
@@ -59,7 +59,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <hr>
 <!-- - **Key Words**: LoRa, Orthogonality, Satellite Communication, Doppler Effect -->
-- **Main Contribution**: This paper provides an comprehensive analysis of LoRa's orthogonality in uplink satellite communication scenario under either high Doppler shift or high Doppler rate. 
+- **Main Contribution**: This paper comprehensively analyzes LoRa's orthogonality in satellite communication under Doppler effect. It reveals the *direct impact* of differential Doppler shift on the cross-correlation variations and offers *practical guidelines* for future LoRa configurations in satellite communication.
 </div>
 </div> 
 
