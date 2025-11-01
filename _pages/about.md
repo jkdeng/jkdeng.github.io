@@ -102,7 +102,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini | *arXiv*, Nov. 2025. 
 <hr>
-- **Main Contribution**: This paper propose a novel IAB-enabled heterogeneous UAV-based communication network for post-disaster scenario. We proposed a two-timescale multi-agent deep deterministic policy gradient (TTS-MADDPG) algorithm to maximize the throughput by jointly optimizing the user scheduling and trajectory control of UAVs. The proposed TTS-MADDPG algorithm outperforms the benchmarks, including TTS-MAPPO and MADDPG, based on the numerical results.
+- **Main Contribution**: This paper proposed a two-timescale multi-agent deep deterministic policy gradient (TTS-MADDPG) algorithm to maximize the throughput by jointly optimizing the user scheduling and trajectory control of UAVs.
+<!-- In a novel IAB-enabled heterogeneous UAV-based communication network for post-disaster scenario, we proposed a two-timescale multi-agent deep deterministic policy gradient (TTS-MADDPG) algorithm to maximize the throughput by jointly optimizing the user scheduling and trajectory control of UAVs. The proposed TTS-MADDPG algorithm outperforms the benchmarks, including TTS-MAPPO and MADDPG, based on the numerical results. -->
 </div>
 </div> 
 
