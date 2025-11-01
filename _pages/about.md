@@ -61,7 +61,37 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- - **Key Words**: LoRa, Orthogonality, Satellite Communication, Doppler Effect -->
 - **Main Contribution**: This paper comprehensively analyzes LoRa's orthogonality in satellite communication under Doppler effect. It reveals the **direct impact** of differential Doppler shift on the cross-correlation variations and offers **practical guidelines** for future LoRa configurations in satellite communication.
 </div>
+</div>
+
+<!--------------------- New paper -------------------------------->
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025twotimescale.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks* [[arXiv](https://arxiv.org/pdf/2510.26578)]
+
+**Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini | *arXiv*, Nov. 2025. 
+<hr>
+- **Main Contribution**: This paper proposed a two-timescale multi-agent deep deterministic policy gradient (TTS-MADDPG) algorithm to maximize the throughput by jointly optimizing the user scheduling and trajectory control of UAVs.
+<!-- In a novel IAB-enabled heterogeneous UAV-based communication network for post-disaster scenario, we proposed a two-timescale multi-agent deep deterministic policy gradient (TTS-MADDPG) algorithm to maximize the throughput by jointly optimizing the user scheduling and trajectory control of UAVs. The proposed TTS-MADDPG algorithm outperforms the benchmarks, including TTS-MAPPO and MADDPG, based on the numerical results. -->
+</div>
 </div> 
+
+
+<!--------------------- New paper -------------------------------->
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025native.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview* [[arXiv](https://arxiv.org/pdf/2507.11935)]
+
+**Jikang Deng**, Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa | *arXiv*, Jul. 2025. 
+<hr>
+<!-- - **Key Words**: 6G, AI, End-to-End Orchestration, NTN, Open RAN (ORAN) -->
+- **Main Contribution**: This paper reviews ORAN research for NTNs, highlights DevOps challenges, proposes an ORAN-based NTN framework with key features, components, and architectures, and also explores the future research directions and potential use cases.
+</div>
+</div> 
+
 
 <!--------------------- New paper -------------------------------->
 
@@ -79,33 +109,8 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div> 
 
-<!--------------------- New paper -------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025native.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-*Native-AI Empowered Scalable Architectures and Solutions for Future Non-Terrestrial Networks: An Overview* [[arXiv](https://arxiv.org/pdf/2507.11935)]
-
-**Jikang Deng**, Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa | *arXiv*, Jul. 2025. 
-<hr>
-<!-- - **Key Words**: 6G, AI, End-to-End Orchestration, NTN, Open RAN (ORAN) -->
-- **Main Contribution**: This paper reviews ORAN research for NTNs, highlights DevOps challenges, proposes an ORAN-based NTN framework with key features, components, and architectures, and also explores the future research directions and potential use cases.
-</div>
-</div> 
-
-<!--------------------- New paper -------------------------------->
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025twotimescale.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-*Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks* [[arXiv](https://arxiv.org/pdf/2510.26578)]
-
-**Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini | *arXiv*, Nov. 2025. 
-<hr>
-- **Main Contribution**: This paper proposed a two-timescale multi-agent deep deterministic policy gradient (TTS-MADDPG) algorithm to maximize the throughput by jointly optimizing the user scheduling and trajectory control of UAVs.
-<!-- In a novel IAB-enabled heterogeneous UAV-based communication network for post-disaster scenario, we proposed a two-timescale multi-agent deep deterministic policy gradient (TTS-MADDPG) algorithm to maximize the throughput by jointly optimizing the user scheduling and trajectory control of UAVs. The proposed TTS-MADDPG algorithm outperforms the benchmarks, including TTS-MAPPO and MADDPG, based on the numerical results. -->
-</div>
-</div> 
 
 ## Academic Service
 - Reviewer for IEEE Communications Magazine (COMMAG)
