@@ -54,7 +54,8 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 *Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect* [[IEEE TAES](https://ieeexplore.ieee.org/document/11037635)] [[arXiv](https://arxiv.org/pdf/2502.16179)]
 
-**Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini | *IEEE TAES*, Jun. 2025. 
+**Jikang Deng**, Fatma Benkhelifa, Mohamed-Slim Alouini  
+*IEEE Transactions on Aerospace and Electronic Systems (TAES)*, Jun. 2025. 
 <!-- <strong><span class='show_paper_citations' data='s1GWiHEAAAAJ:qjMakFHDy7sC'></span></strong> -->
 
 <hr>
