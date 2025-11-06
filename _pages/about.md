@@ -94,7 +94,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div> 
 
 
-<!--------------------- New paper -------------------------------->
+<!---------📌📸🔍🎯✨------------ New paper -------------------------------->
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025distributed_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -105,8 +105,10 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- <strong><span class='show_paper_citations' data='s1GWiHEAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 <hr>
 <!-- - **Key Words**: Distributed Coordination, Distributed Learning, Heterogeneous Network, Non-terrestrial Network(NTN) -->
+- 📸<span style="color:red">**Academic Impact**</span>: This paper has been featured in the September 2025 issue of **IEEE Spectrum** [[Link](https://spectrum.ieee.org/6g-wireless)]!
+
 - **Main Contribution**: This paper summarizes the unique characteristics of each NTN platform, identifes the communication challenges, and proposes the potential coordinated solution based on multi-agent deep reinforcement learning (MADRL) in heterogeneous NTN.
-- **Academic Impact**: This paper has been featured in the September 2025 issue of **IEEE Spectrum** [[Link](https://spectrum.ieee.org/6g-wireless)]!
+
 </div>
 </div> 
 
