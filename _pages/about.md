@@ -48,6 +48,24 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Research Experience
 ## Publications 
+<!---------📌📸🔍🎯✨------------ New paper -------------------------------->
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025distributed_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Distributed Coordination for Heterogeneous Non-Terrestrial Networks* [[arXiv](https://arxiv.org/pdf/2502.17366)]
+
+**Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini | *arXiv*, Feb. 2025. 
+<!-- <strong><span class='show_paper_citations' data='s1GWiHEAAAAJ:2osOgNQ5qMEC'></span></strong> -->
+<hr>
+<!-- - **Key Words**: Distributed Coordination, Distributed Learning, Heterogeneous Network, Non-terrestrial Network(NTN) -->
+- 📸<span style="color:red">**Academic Impact**</span>: This paper has been featured in the September 2025 issue of **IEEE Spectrum** [[Link](https://spectrum.ieee.org/6g-wireless)]!
+
+- **Main Contribution**: This paper summarizes the unique characteristics of each NTN platform, identifes the communication challenges, and proposes the potential coordinated solution based on multi-agent deep reinforcement learning (MADRL) in heterogeneous NTN.
+
+</div>
+</div> 
+
 <!--------------------- New paper -------------------------------->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAES</div><img src='images/deng2025orthogonality_1.png' alt="sym" width="100%"></div></div>
@@ -94,23 +112,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div> 
 
 
-<!---------📌📸🔍🎯✨------------ New paper -------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/deng2025distributed_1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-*Distributed Coordination for Heterogeneous Non-Terrestrial Networks* [[arXiv](https://arxiv.org/pdf/2502.17366)]
-
-**Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini | *arXiv*, Feb. 2025. 
-<!-- <strong><span class='show_paper_citations' data='s1GWiHEAAAAJ:2osOgNQ5qMEC'></span></strong> -->
-<hr>
-<!-- - **Key Words**: Distributed Coordination, Distributed Learning, Heterogeneous Network, Non-terrestrial Network(NTN) -->
-- 📸<span style="color:red">**Academic Impact**</span>: This paper has been featured in the September 2025 issue of **IEEE Spectrum** [[Link](https://spectrum.ieee.org/6g-wireless)]!
-
-- **Main Contribution**: This paper summarizes the unique characteristics of each NTN platform, identifes the communication challenges, and proposes the potential coordinated solution based on multi-agent deep reinforcement learning (MADRL) in heterogeneous NTN.
-
-</div>
-</div> 
 
 
 
