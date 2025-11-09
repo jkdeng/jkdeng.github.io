@@ -9,6 +9,12 @@
       '<img class="lb-img" alt="">' +
       '<div class="lb-caption" aria-hidden="true"></div>' +
       '</div>';
+    // Close when clicking anywhere inside the overlay (including the image)
+    o.addEventListener('click', function(e){
+      // If click originates from a focusable control in the overlay in future, consider
+      // checking e.target to avoid accidental closes. For now close on any click.
+      closeLightbox();
+    });
     document.body.appendChild(o);
     return o;
   }
