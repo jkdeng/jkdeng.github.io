@@ -24,21 +24,28 @@
     big.alt = img.alt || '';
     cap.textContent = img.getAttribute('data-caption') || img.alt || '';
 
-    overlay.classList.add('lb-open');
-    overlay.setAttribute('aria-hidden','false');
-    document.documentElement.style.overflow = 'hidden';
-    setTimeout(()=> overlay.classList.add('lb-open'), 10);
+    // Make overlay visible and prevent page scroll while open.
+    overlay.style.display = 'flex';
+    // Allow paint then add class to trigger CSS transition
+    requestAnimationFrame(() => {
+      overlay.classList.add('lb-open');
+      overlay.setAttribute('aria-hidden','false');
+      document.documentElement.style.overflow = 'hidden';
+    });
   }
 
   function closeLightbox(){
     if(!overlay) return;
+    // remove open class to trigger fade-out
     overlay.classList.remove('lb-open');
     overlay.setAttribute('aria-hidden','true');
     document.documentElement.style.overflow = '';
+    // After transition, hide overlay from layout and clear image src to free memory
     setTimeout(()=> {
+      overlay.style.display = 'none';
       const big = overlay.querySelector('.lb-img');
       if(big) big.src = '';
-    }, 220);
+    }, 240);
   }
 
   function enableZoom(selector){
