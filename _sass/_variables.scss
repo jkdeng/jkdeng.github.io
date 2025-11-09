@@ -118,8 +118,10 @@
    $small                      : 600px !default;
    $medium                     : 768px !default;
    $medium-wide                : 900px !default;
-   $large                      : 925px !default;
-   $x-large                    : 1280px !default;
+   // Increased page container widths to make the overall site wider.
+   // Adjust these values if you want a different maximum page width.
+   $large                      : 1100px !default;
+   $x-large                    : 1440px !default;
    
    /*
       Grid
