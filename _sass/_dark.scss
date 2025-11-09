@@ -5,34 +5,40 @@
   // smooth transitions for color/background changes
   transition: background-color 250ms ease, color 250ms ease;
 
+  /* Use a brighter main text color to match the left profile text */
   background-color: #0b0f13 !important;
-  color: #d6e1e8 !important;
+  color: #e8eef2 !important;
 
-  // page/content
+  // page/content - match profile font brightness for readability
   .page__inner-wrap,
   .container,
   .main,
   .page,
   .page__content {
     background-color: transparent !important;
-    color: inherit !important;
+    color: #e8eef2 !important;
   }
 
   // masthead / navigation / sidebar
-  .masthead,
+  // masthead / navigation / sidebar - ensure masthead and its inner container are dark
+  .masthead { background-color: #0f1620 !important; }
   .masthead__inner-wrap,
   .masthead__menu,
   .sidebar,
   .page__sidebar {
-    background-color: #0f1620 !important;
-    color: #cbd5e1 !important;
+    background-color: transparent !important;
+    color: #e8eef2 !important;
     border-color: rgba(255,255,255,0.06) !important;
   }
+
+  // greedy-nav (top nav) background override to avoid white bar
+  .greedy-nav { background-color: transparent !important; }
 
   a, a:link, a:visited { color: #7ad7ff !important; }
   a:hover, a:focus { color: #bdefff !important; }
 
-  hr, .rule, .bordered { border-color: rgba(255,255,255,0.06) !important; }
+  // make horizontal rules more subtle in dark mode
+  hr, .rule, .bordered { border-color: rgba(255,255,255,0.03) !important; }
 
   pre, code, .highlight { background-color: #071019 !important; color: #d6e1e8 !important; }
 
@@ -42,9 +48,16 @@
   // images: slightly reduce brightness to fit dark background
   img { filter: brightness(0.96); }
 
+  // ensure badges positioned over images are visible
+  .paper-box-image { position: relative; }
+  .badge { z-index: 5; position: absolute; }
+
   // Lightbox overlay
   .lb-overlay.lb-open { background: rgba(0,0,0,0.92) !important; }
 
   // small subtle transition for colors site-wide
   body, .masthead, .page__content, .sidebar, .paper-box { transition: background-color 250ms ease, color 250ms ease; }
+
+  // paper-box separators less prominent
+  .paper-box { border-bottom-color: rgba(255,255,255,0.03) !important; }
 }
