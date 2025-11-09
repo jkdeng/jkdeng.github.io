@@ -1,0 +1,50 @@
+// Dark mode overrides
+// Add this file to the main SCSS via @import "dark" so it's compiled into the site CSS.
+
+.dark-mode {
+  // smooth transitions for color/background changes
+  transition: background-color 250ms ease, color 250ms ease;
+
+  background-color: #0b0f13 !important;
+  color: #d6e1e8 !important;
+
+  // page/content
+  .page__inner-wrap,
+  .container,
+  .main,
+  .page,
+  .page__content {
+    background-color: transparent !important;
+    color: inherit !important;
+  }
+
+  // masthead / navigation / sidebar
+  .masthead,
+  .masthead__inner-wrap,
+  .masthead__menu,
+  .sidebar,
+  .page__sidebar {
+    background-color: #0f1620 !important;
+    color: #cbd5e1 !important;
+    border-color: rgba(255,255,255,0.06) !important;
+  }
+
+  a, a:link, a:visited { color: #7ad7ff !important; }
+  a:hover, a:focus { color: #bdefff !important; }
+
+  hr, .rule, .bordered { border-color: rgba(255,255,255,0.06) !important; }
+
+  pre, code, .highlight { background-color: #071019 !important; color: #d6e1e8 !important; }
+
+  // icons / small UI
+  .icon, .social a { color: #9fb8c6 !important; }
+
+  // images: slightly reduce brightness to fit dark background
+  img { filter: brightness(0.96); }
+
+  // Lightbox overlay
+  .lb-overlay.lb-open { background: rgba(0,0,0,0.92) !important; }
+
+  // small subtle transition for colors site-wide
+  body, .masthead, .page__content, .sidebar, .paper-box { transition: background-color 250ms ease, color 250ms ease; }
+}

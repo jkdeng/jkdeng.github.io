@@ -30,6 +30,13 @@
     a {
       text-decoration: none;
     }
+
+    .masthead__tools {
+      float: right;
+      display: flex;
+      align-items: center;
+      gap: .5rem;
+    }
   }
 }
 
