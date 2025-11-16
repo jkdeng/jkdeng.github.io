@@ -88,7 +88,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!--------------------- New paper -------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoT-J<div><img class="click-to-zoom" src='images/deng2025twotimescale.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoT-J</div><img class="click-to-zoom" src='images/deng2025twotimescale.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 *Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks* [[arXiv](https://arxiv.org/pdf/2510.26578)]
