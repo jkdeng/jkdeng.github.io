@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 <!--- *2024.11*: &nbsp;🔥🔥 I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE.-->
 
 # 📝 Research Experience
-## Publications 
+## Publications
 <!---------📌📸🔍🎯✨📸------------ New paper -------------------------------->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE COMMAG</div><img class="click-to-zoom" src='images/deng2025distributed_1.png' alt="sym" width="100%"></div></div>
@@ -71,6 +71,23 @@ My research interest includes neural machine translation and computer vision. I 
 
 <!--------------------- New paper -------------------------------->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoT-J</div><img class="click-to-zoom" src='images/deng2025twotimescale.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+*Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks* [[arXiv](https://arxiv.org/pdf/2510.26578)]
+
+**Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini 
+
+--- *IEEE Internet of Things Journal (IoT-J)*, Nov. 2025. 
+<!-- | *arXiv*, Nov. 2025.  -->
+<hr>
+- **Main Contribution**: This paper proposed a two-timescale multi-agent deep deterministic policy gradient (TTS-MADDPG) algorithm to maximize the throughput by jointly optimizing the user scheduling and trajectory control of UAVs.
+<!-- In a novel IAB-enabled heterogeneous UAV-based communication network for post-disaster scenario, we proposed a two-timescale multi-agent deep deterministic policy gradient (TTS-MADDPG) algorithm to maximize the throughput by jointly optimizing the user scheduling and trajectory control of UAVs. The proposed TTS-MADDPG algorithm outperforms the benchmarks, including TTS-MAPPO and MADDPG, based on the numerical results. -->
+</div>
+</div> 
+
+<!--------------------- New paper -------------------------------->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAES</div><img class="click-to-zoom" src='images/deng2025orthogonality_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect* [[IEEE TAES](https://ieeexplore.ieee.org/document/11037635)] [[arXiv](https://arxiv.org/pdf/2502.16179)]
@@ -85,22 +102,6 @@ My research interest includes neural machine translation and computer vision. I 
 - **Main Contribution**: This paper comprehensively analyzes LoRa's orthogonality in satellite communication under Doppler effect. It reveals the **direct impact** of differential Doppler shift on the cross-correlation variations and offers **practical guidelines** for future LoRa configurations in satellite communication.
 </div>
 </div>
-
-<!--------------------- New paper -------------------------------->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoT-J</div><img class="click-to-zoom" src='images/deng2025twotimescale.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-*Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks* [[arXiv](https://arxiv.org/pdf/2510.26578)]
-
-**Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini 
---- *IEEE Internet of Things Journal (IoT-J)*, Nov. 2025. 
-<!-- | *arXiv*, Nov. 2025.  -->
-<hr>
-- **Main Contribution**: This paper proposed a two-timescale multi-agent deep deterministic policy gradient (TTS-MADDPG) algorithm to maximize the throughput by jointly optimizing the user scheduling and trajectory control of UAVs.
-<!-- In a novel IAB-enabled heterogeneous UAV-based communication network for post-disaster scenario, we proposed a two-timescale multi-agent deep deterministic policy gradient (TTS-MADDPG) algorithm to maximize the throughput by jointly optimizing the user scheduling and trajectory control of UAVs. The proposed TTS-MADDPG algorithm outperforms the benchmarks, including TTS-MAPPO and MADDPG, based on the numerical results. -->
-</div>
-</div> 
 
 
 <!--------------------- New paper -------------------------------->
