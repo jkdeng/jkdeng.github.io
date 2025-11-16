@@ -5,19 +5,6 @@ layout: compress
 <!doctype html>
 <html lang="en" class="no-js">
   <head>
-    <script>
-      // Early theme application to avoid flash. Uses localStorage if set, otherwise system preference.
-      (function(){
-        try{
-          var key = 'site-theme';
-          var cls = 'dark-mode';
-          var saved = localStorage.getItem(key);
-          var preferDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-          var theme = saved === 'dark' || saved === 'light' ? saved : (preferDark ? 'dark' : 'light');
-          if(theme === 'dark') document.documentElement.classList.add(cls);
-        }catch(e){ /* ignore */ }
-      })();
-    </script>
     {% include head.html %}
     {% include head/custom.html %}
     <link rel="stylesheet" href="/assets/css/lightbox.css">
@@ -43,7 +30,6 @@ layout: compress
 
     {% include scripts.html %}
     <script src="/assets/js/lightbox.js" defer></script>
-  <script src="/assets/js/theme-toggle.js" defer></script>
 
   </body>
 </html>
