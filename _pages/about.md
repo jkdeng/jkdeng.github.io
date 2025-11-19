@@ -75,7 +75,7 @@ Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](htt
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE IoT-J</div><img class="click-to-zoom" src='images/deng2025twotimescale.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks [[arXiv](https://arxiv.org/pdf/2510.26578)]
+Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks [[IEEE IoT-J](https://ieeexplore.ieee.org/document/11251288)] [[arXiv](https://arxiv.org/pdf/2510.26578)]
 
 **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini 
 
