@@ -52,7 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 ## Publications
 <!---------📌📸🔍🎯✨📸------------ New paper -------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE COMMAG</div><img class="click-to-zoom" src='images/deng2025distributed_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE COMMAG</div><img class="click-to-zoom" src='images/deng2025distributed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](https://arxiv.org/pdf/2502.17366)]
@@ -89,7 +89,7 @@ Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks 
 
 <!--------------------- New paper -------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAES</div><img class="click-to-zoom" src='images/deng2025orthogonality_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TAES</div><img class="click-to-zoom" src='images/deng2025orthogonality.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect [[IEEE TAES](https://ieeexplore.ieee.org/document/11037635)] [[arXiv](https://arxiv.org/pdf/2502.16179)]
 
