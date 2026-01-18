@@ -36,30 +36,49 @@ My research interest includes neural machine translation and computer vision. I 
 - Near-field Communication
 
 # 🔔 News
-- *2025.11*: 🎉  My 2nd first-authored full journal paper "*Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks*" got accepted by **IEEE Internet of Things Journal (IoT-J)**! <!-- Detailed Date 11.16 -->
+- *2026.01*: 🎉 Our survey paper "*AI-Native Open RAN for Non-Terrestrial Networks: An Overview*" got accepted by **IEEE Open Journal of the Communications Society**! <!-- Detailed Date 01.16 -->
+My 2nd first-authored full journal paper "*Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks*" got accepted by **IEEE Internet of Things Journal (IoT-J)**! <!-- Detailed Date 11.16 -->
+- *2025.11*: 🎉 My 2nd first-authored full journal paper "*Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks*" got accepted by **IEEE Internet of Things Journal (IoT-J)**! <!-- Detailed Date 11.16 -->
 - *2025.11*: 🎉 Our magazine paper "*Distributed Coordination for Heterogeneous Non-Terrestrial Networks*" got accepted by **IEEE Communications Magazine (COMMAG)**! <!-- Detailed Date 11.05 -->
-- *2025.09*: 🎉 Our magazine paper "*Distributed Coordination for Heterogeneous Non-Terrestrial Networks*" was featured in the September 2025 issue of **IEEE Spectrum** [[Link](https://spectrum.ieee.org/6g-wireless)]!
+- *2025.09*: Our magazine paper "*Distributed Coordination for Heterogeneous Non-Terrestrial Networks*" was featured in the September 2025 issue of **IEEE Spectrum** [[Link](https://spectrum.ieee.org/6g-wireless)]!
 <!-- - *2025.06*:  I continued my research at KAUST as a PhD student in the CTL! -->
 - *2025.06*: My 1st first-authored full journal paper "*Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect*" got accepted by **IEEE Transactions on Aerospace and Electronic Systems (TAES)**! <!-- Detailed Date 06.04 -->
 <!-- - *2025.06*: I graduated from KAUST with the Master of Science (M.Sc.) degree in Electrical and Computer Engineering. Detailed Date 06.01 -->
 - *2025.04*: I successfully defended my master's thesis "*Hierarchical Distributed Coordination for Heterogeneous Non-terrestrial Network*" in KAUST. <!-- Detailed Date 04.29 -->
-- *2024.11*: I presented my poster "*Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect*" in 2024 6G Summit, Abu Dhabi, UAE.
+<!-- - *2024.11*: I presented my poster "*Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect*" in 2024 6G Summit, Abu Dhabi, UAE. -->
 <!-- - *2023.08*: I joined CTL in KAUST as a Master student in Saudi Arabia. -->
 <!-- - *2023.06*: I graduated from UESTC with the Bachelor of Engineering (B.Eng.) degree in Network Engineering. -->
 <!--- *2024.11*: &nbsp;🔥🔥 I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE.-->
 
 # 📝 Research Experience
 ## Publications
+<!--------------------- New paper -------------------------------->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE OJCOMS</div><img class="click-to-zoom" src='images/deng2025ainative.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+AI-Native Open RAN for Non-Terrestrial Networks: An Overview [[arXiv](https://arxiv.org/pdf/2507.11935)]
+
+**Jikang Deng**, Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa 
+
+--- *IEEE Open Journal of the Communications Society (OJCOMS)*, Jan. 2026. 
+
+<hr>
+<!-- - **Key Words**: 6G, AI, End-to-End Orchestration, NTN, Open RAN (ORAN) -->
+- **Main Contribution**: This paper reviews ORAN research for NTNs, highlights DevOps challenges, proposes an ORAN-based NTN framework with key features, components, and architectures, and also explores the future research directions and potential use cases.
+</div>
+</div> 
+
 <!---------📌📸🔍🎯✨📸------------ New paper -------------------------------->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE COMMAG</div><img class="click-to-zoom" src='images/deng2025distributed.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[arXiv](https://arxiv.org/pdf/2502.17366)]
+Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[IEEE COMMAG](https://ieeexplore.ieee.org/document/11346918)] [[arXiv](https://arxiv.org/pdf/2502.17366)]
 
 **Jikang Deng**, Hui Zhou, Mohamed-Slim Alouini 
 
---- *IEEE Communications Magazine (COMMAG)*, Nov. 2025. 
+--- *IEEE Communications Magazine (COMMAG)*, Jan. 2026. 
 <!-- <strong><span class='show_paper_citations' data='s1GWiHEAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 <hr>
 <!-- - **Key Words**: Distributed Coordination, Distributed Learning, Heterogeneous Network, Non-terrestrial Network(NTN) -->
@@ -105,19 +124,7 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
 </div>
 
 
-<!--------------------- New paper -------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><img class="click-to-zoom" src='images/deng2025ainative.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-AI-Native Open RAN for Non-Terrestrial Networks: An Overview [[arXiv](https://arxiv.org/pdf/2507.11935)]
-
-**Jikang Deng**, Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa | *arXiv*, Jul. 2025. 
-<hr>
-<!-- - **Key Words**: 6G, AI, End-to-End Orchestration, NTN, Open RAN (ORAN) -->
-- **Main Contribution**: This paper reviews ORAN research for NTNs, highlights DevOps challenges, proposes an ORAN-based NTN framework with key features, components, and architectures, and also explores the future research directions and potential use cases.
-</div>
-</div> 
 
 
 
