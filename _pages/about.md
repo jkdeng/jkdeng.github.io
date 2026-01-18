@@ -58,7 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 AI-Native Open RAN for Non-Terrestrial Networks: An Overview [[arXiv](https://arxiv.org/pdf/2507.11935)]
 
-**Jikang Deng**, Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa 
+**Jikang Deng**, S.Fizza Hassan, Hui Zhou, Saad Al-Ahmadi, Mohamed-Slim Alouini, Daniel B. Da Costa 
 
 --- *IEEE Open Journal of the Communications Society (OJCOMS)*, Jan. 2026. 
 
