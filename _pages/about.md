@@ -83,7 +83,7 @@ Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[IEEE COMMA
 <!-- - **Key Words**: Distributed Coordination, Distributed Learning, Heterogeneous Network, Non-terrestrial Network(NTN) -->
 - <span style="color:red">**Academic Impact**</span>✨: This paper has been featured in the September 2025 issue of **IEEE Spectrum** [[Link](https://spectrum.ieee.org/6g-wireless)]!
 
-- **Main Contribution**: This paper summarizes the unique characteristics of each NTN platform, identifes the communication challenges, and proposes the potential coordinated solution based on multi-agent deep reinforcement learning (MADRL) in heterogeneous NTN.
+- **Main Contribution**: This paper summarizes the unique characteristics of each NTN platform, identifies the communication challenges, and proposes the potential coordinated solution based on multi-agent deep reinforcement learning (MADRL) in heterogeneous NTN.
 
 </div>
 </div> 
