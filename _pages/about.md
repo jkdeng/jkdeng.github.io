@@ -134,7 +134,7 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
 ## Academic Service
 - Reviewer for IEEE Communications Magazine (COMMAG)
 - Reviewer for IEEE Wireless Communications Letters (WCL)
-- Reviewer for IEEE Open Journal of the Communications Society (OJ-COMS)
+- Reviewer for IEEE Open Journal of the Communications Society (OJCOMS)
 - Reviewer for IEEE International Conference on Communications (ICC)
 
 
