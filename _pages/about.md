@@ -126,15 +126,14 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
 
 
 ## Academic Service
-- Reviewer for 
+- Reviewer:
   - IEEE Transactions on Mobile Computing (TMC)
+  - IEEE Transactions on Wireless Communications (TWC)
+  - IEEE Communications Magazine (COMMAG)
   - IEEE Internet of Things Magazine (IoTM)
-- Reviewer for IEEE Transactions on Wireless Communications (TWC)
-- Reviewer for IEEE Communications Magazine (COMMAG)
-- Reviewer for IEEE Wireless Communications Letters (WCL)
-- Reviewer for IEEE Open Journal of the Communications Society (OJCOMS)
-- Reviewer for IEEE International Conference on Communications (ICC)
-
+  - IEEE Wireless Communications Letters (WCL)
+  - IEEE Open Journal of the Communications Society (OJCOMS)
+  - IEEE International Conference on Communications (ICC)
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
