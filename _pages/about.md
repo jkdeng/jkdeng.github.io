@@ -21,7 +21,7 @@ redirect_from:
 Welcome! I'm Jikang Deng (邓纪康), a PhD student in Communication Theory Lab ([CTL](https://ctl.kaust.edu.sa/)) at King Abdullah University of Science and Technology ([KAUST](https://www.kaust.edu.sa/en/)) under the supervision of [Prof. Mohamed-Slim Alouini](https://cemse.kaust.edu.sa/profiles/mohamed-slim-alouini). I obtained the Master of Science (M.Sc.) degree in electrical and computer engineering from KAUST in 2025. I received the Bachelor of Engineering (B.Eng.) degree in network engineering from School of Information and Communication Engineering (SICE), University of Electronic Science and Technology of China ([UESTC](https://www.uestc.edu.cn/)) in 2023.
 <!-- <a href='https://scholar.google.com/citations?user=s1GWiHEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-My research interests include wireless communication, non-terrestrial network (NTN), AI for communications, and near-field communication. My research aims to bridge the digital divide and connect the unconnected. Please feel free to connect—I’m always open to new ideas and collaborations! You can reach me at **jikang.deng[at]kaust.edu.sa**
+My research interests include wireless communication, non-terrestrial network (NTN), AI for communications, near-field communication, and movable antenna. My research aims to bridge the digital divide and connect the unconnected. Please feel free to connect—I’m always open to new ideas and collaborations! You can reach me at **jikang.deng[at]kaust.edu.sa**
 
 <!--
 <strong><span id="PhD_seek" style="color: red;">I'm currently seeking for PhD position in 2025 Fall. Please feel free to contact me at [jikang.deng[at]kaust.edu.sa] if you have any information. Thank you so much!</span></strong>-->
@@ -34,6 +34,7 @@ My research interest includes neural machine translation and computer vision. I 
 - Non-terrestrial Network (NTN)
 - AI for communications
 - Near-field Communication
+- Movable Antenna
 
 # 🔔 News
 - *2026.05*: I will present my poster "*Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks*" in IEEE Communication Theory Workshop (CTW) 2026, São Miguel, Azores, Portugal.
@@ -134,6 +135,7 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
   - IEEE Wireless Communications Letters (WCL)
   - IEEE Open Journal of the Communications Society (OJCOMS)
   - IEEE International Conference on Communications (ICC)
+  - IEEE Global Communications Conference (Globecom)
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
