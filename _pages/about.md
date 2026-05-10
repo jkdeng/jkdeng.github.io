@@ -133,6 +133,7 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
   - IEEE Communications Magazine (COMMAG)
   - IEEE Internet of Things Magazine (IoTM)
   - IEEE Wireless Communications Letters (WCL)
+  - IEEE Communications Letters (CL)
   - IEEE Open Journal of the Communications Society (OJCOMS)
   - IEEE International Conference on Communications (ICC)
   - IEEE Global Communications Conference (Globecom)
