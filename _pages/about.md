@@ -37,7 +37,7 @@ My research interest includes neural machine translation and computer vision. I 
 - Movable Antenna
 
 # 🔔 News
-- *2026.05*: I will present my poster "*Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks*" in IEEE Communication Theory Workshop (CTW) 2026, São Miguel, Azores, Portugal.
+- *2026.05*: I presented my poster "*Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks*" in IEEE Communication Theory Workshop (CTW) 2026, São Miguel, Azores, Portugal.
 - *2026.01*: 🎉 Our survey paper "*AI-Native Open RAN for Non-Terrestrial Networks: An Overview*" got accepted by **IEEE Open Journal of the Communications Society (OJCOMS)**! <!-- Detailed Date 01.16 -->
 - *2025.11*: 🎉 My 2nd first-authored full journal paper "*Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks*" got accepted by **IEEE Internet of Things Journal (IoT-J)**! <!-- Detailed Date 11.16 -->
 - *2025.11*: 🎉 Our magazine paper "*Distributed Coordination for Heterogeneous Non-Terrestrial Networks*" got accepted by **IEEE Communications Magazine (COMMAG)**! <!-- Detailed Date 11.05 -->
@@ -130,6 +130,7 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
 - Reviewer:
   - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Transactions on Wireless Communications (TWC)
+  - IEEE Transactions on Communications (TCOM)
   - IEEE Communications Magazine (COMMAG)
   - IEEE Internet of Things Magazine (IoTM)
   - IEEE Wireless Communications Letters (WCL)
