@@ -131,6 +131,7 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
   - IEEE Transactions on Mobile Computing (TMC)
   - IEEE Transactions on Wireless Communications (TWC)
   - IEEE Transactions on Communications (TCOM)
+  - IEEE Wireless Communications (WCM)
   - IEEE Communications Magazine (COMMAG)
   - IEEE Internet of Things Magazine (IoTM)
   - IEEE Wireless Communications Letters (WCL)
@@ -138,7 +139,6 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
   - IEEE Open Journal of the Communications Society (OJCOMS)
   - IEEE International Conference on Communications (ICC)
   - IEEE Global Communications Conference (Globecom)
-  - IEEE Conference on Communications and Network Security (CNS)
 
 
 # 📖 Educations
