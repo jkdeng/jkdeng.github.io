@@ -67,6 +67,7 @@ AI-Native Open RAN for Non-Terrestrial Networks: An Overview [[IEEE OJCOMS](http
 <hr>
 <!-- - **Key Words**: 6G, AI, End-to-End Orchestration, NTN, Open RAN (ORAN) -->
 - <span style="color:red"> Popular article on IEEE Open J. Commun. Soc. </span>
+
 - **Main Contribution**: This paper reviews ORAN research for NTNs, highlights DevOps challenges, proposes an ORAN-based NTN framework with key features, components, and architectures, and also explores the future research directions and potential use cases.
 </div>
 </div> 
