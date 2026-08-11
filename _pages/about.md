@@ -135,6 +135,7 @@ Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppl
   - IEEE Transactions on Communications (TCOM)
   - IEEE Wireless Communications (WCM)
   - IEEE Communications Magazine (COMMAG)
+  - IEEE Communications Standards Magazine (COMSTD)
   - IEEE Internet of Things Magazine (IoTM)
   - IEEE Wireless Communications Letters (WCL)
   - IEEE Communications Letters (CL)
