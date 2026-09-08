@@ -42,6 +42,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2025.11*: 🎉 My 2nd first-authored full journal paper "*Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks*" got accepted by **IEEE Internet of Things Journal (IoT-J)**! <!-- Detailed Date 11.16 -->
 - *2025.11*: 🎉 Our magazine paper "*Distributed Coordination for Heterogeneous Non-Terrestrial Networks*" got accepted by **IEEE Communications Magazine (COMMAG)**! <!-- Detailed Date 11.05 -->
 - *2025.09*: Our magazine paper "*Distributed Coordination for Heterogeneous Non-Terrestrial Networks*" was featured in the September 2025 issue of **IEEE Spectrum** [[Link](https://spectrum.ieee.org/6g-wireless)]!
+
+<details markdown="1">
+<summary>View Earlier News</summary>
+
 <!-- - *2025.06*:  I continued my research at KAUST as a PhD student in the CTL! -->
 - *2025.06*: My 1st first-authored full journal paper "*Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect*" got accepted by **IEEE Transactions on Aerospace and Electronic Systems (TAES)**! <!-- Detailed Date 06.04 -->
 <!-- - *2025.06*: I graduated from KAUST with the Master of Science (M.Sc.) degree in Electrical and Computer Engineering. Detailed Date 06.01 -->
@@ -50,6 +54,8 @@ My research interest includes neural machine translation and computer vision. I 
 <!-- - *2023.08*: I joined CTL in KAUST as a Master student in Saudi Arabia. -->
 <!-- - *2023.06*: I graduated from UESTC with the Bachelor of Engineering (B.Eng.) degree in Network Engineering. -->
 <!--- *2024.11*: &nbsp;🔥🔥 I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE.-->
+
+</details>
 
 # 📝 Research Experience
 ## Publications
