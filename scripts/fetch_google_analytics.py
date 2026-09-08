@@ -17,7 +17,7 @@ def main():
     request = RunReportRequest(
         property=f"properties/{os.environ['GA_PROPERTY_ID']}",
         metrics=[Metric(name="screenPageViews"), Metric(name="totalUsers")],
-        date_ranges=[DateRange(start_date="2000-01-01", end_date="today")],
+        date_ranges=[DateRange(start_date="2015-08-14", end_date="today")],
     )
     response = client.run_report(request)
     values = response.rows[0].metric_values
