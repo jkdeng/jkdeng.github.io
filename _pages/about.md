@@ -53,7 +53,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2024.11*: I presented my poster "*Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect*" in 2024 6G Summit, Abu Dhabi, UAE.
 - *2023.08*: I joined CTL in KAUST as a Master student in Saudi Arabia. 
 - *2023.06*: I graduated from UESTC with the Bachelor of Engineering (B.Eng.) degree in Network Engineering.
-- *2024.11*: &nbsp;🔥🔥 I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE.
+<!-- - *2024.11*: &nbsp;🔥🔥 I present my poster "Orthogonality Analysis in LoRa Uplink Satellite Communications Affected by Doppler Effect" in 2024 6G Summit, Abd Dhabi, UAE. -->
 
 </details>
 
