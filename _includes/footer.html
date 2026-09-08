@@ -1,11 +1,9 @@
 <div class="page__footer">
   <footer>
     <div class="page__footer-copyright">
-      <span>Views <strong id="busuanzi_value_site_pv">--</strong></span>
+      <span>Views <strong>{{ site.data.ga_stats.views | default: "--" }}</strong></span>
       <span aria-hidden="true">&nbsp;&bull;&nbsp;</span>
-      <span>Visitors <strong id="busuanzi_value_site_uv">--</strong></span>
+      <span>Visitors <strong>{{ site.data.ga_stats.visitors | default: "--" }}</strong></span>
     </div>
   </footer>
 </div>
-
-<script async src="https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
