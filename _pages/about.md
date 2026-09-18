@@ -59,7 +59,7 @@ My research interest includes neural machine translation and computer vision. I 
 ## Publications
 <!--------------------- New paper -------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img class="click-to-zoom" src='images/deng2025ainative.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE OJCOMS</div><img class="click-to-zoom" src='images/deng2025ainative.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 AI-Native Open RAN for Non-Terrestrial Networks: An Overview [[IEEE OJCOMS](https://ieeexplore.ieee.org/document/11359138)] [[arXiv](https://arxiv.org/pdf/2507.11935)]
@@ -78,7 +78,7 @@ AI-Native Open RAN for Non-Terrestrial Networks: An Overview [[IEEE OJCOMS](http
 
 <!--------------------- New paper -------------------------------->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE OJCOMS</div><img class="click-to-zoom" src='images/deng2026foldable.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img class="click-to-zoom" src='images/deng2026foldable.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Foldable Antenna Array in Space-Air-Ground Integrated
