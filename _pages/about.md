@@ -31,8 +31,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔬 Research Interest
 - Non-terrestrial Network (NTN)
-- Reinforcement Learning 
-- AI for communications
+- Reinforcement Learning (RL)
+- AI for communications 
+- Foldable Antenna Array (FAA)
 
 # 🔔 News
 - *2026.05*: I presented my poster "*Two-Timescale Optimization Framework for IAB-Enabled Heterogeneous UAV Networks*" in IEEE Communication Theory Workshop (CTW) 2026, São Miguel, Azores, Portugal.
@@ -109,7 +110,7 @@ Distributed Coordination for Heterogeneous Non-Terrestrial Networks [[IEEE COMMA
 <!-- <strong><span class='show_paper_citations' data='s1GWiHEAAAAJ:2osOgNQ5qMEC'></span></strong> -->
 <hr>
 <!-- - **Key Words**: Distributed Coordination, Distributed Learning, Heterogeneous Network, Non-terrestrial Network(NTN) -->
-- <span style="color:red">**Academic Impact**</span>✨: This paper has been featured in the September 2025 issue of **IEEE Spectrum** [[Link](https://spectrum.ieee.org/6g-wireless)]!
+- <span style="color:red">**Featured in the September 2025 issue of IEEE Spectrum [[Link](https://spectrum.ieee.org/6g-wireless)]!**</span>
 
 - **Main Contribution**: This paper summarizes the unique characteristics of each NTN platform, identifies the communication challenges, and proposes the potential coordinated solution based on multi-agent deep reinforcement learning (MADRL) in heterogeneous NTN.
 
